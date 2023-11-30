@@ -1,0 +1,26 @@
+/* styles.css */
+.body{
+  background-color: red;
+}
+.oval-button {
+  width: 430px;
+  color: rgb(172, 110, 110);
+  border-color: aliceblue;
+  border-radius: 15px; /* Ajusta el valor según sea necesario para obtener la forma ovalada deseada */
+}
+.h1{
+  color: rgb(13, 13, 13);
+}
+.btn{
+  color: rgb(212, 84, 84);
+  background-color: rgb(254, 213, 107);
+}
+.btn:hover{
+  color: rgba(212, 84, 84, 0.733);
+  background-color: rgba(254, 212, 107, 0.607);
+  border-color: aliceblue;
+}
+.form-control{
+  border-color: black;
+  border-radius: 2px;
+}
